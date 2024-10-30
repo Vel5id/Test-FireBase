@@ -1,0 +1,21 @@
+{
+    "welcome": "Bienvenido a la aplicación React con Firebase",
+    "add_user": "Agregar usuario",
+    "name": "Nombre",
+    "age": "Edad",
+    "gender": "Género",
+    "male": "Masculino",
+    "female": "Femenino",
+    "other": "Otro",
+    "likes_spicy": "Le gusta picante",
+    "likes_raw": "Le gusta crudo",
+    "submit": "Enviar",
+    "generate_test_data": "Generar datos de prueba",
+    "users_list": "Lista de usuarios",
+    "loading": "Cargando...",
+    "no_users": "No se encontraron usuarios.",
+    "error_loading": "Error al cargar usuarios.",
+    "success_added": "¡Datos agregados exitosamente!",
+    "error_adding": "Error al agregar datos."
+  }
+  

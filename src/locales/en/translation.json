@@ -1,0 +1,21 @@
+{
+    "welcome": "Welcome to the React Firebase App",
+    "add_user": "Add User",
+    "name": "Name",
+    "age": "Age",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "likes_spicy": "Likes Spicy",
+    "likes_raw": "Likes Raw",
+    "submit": "Submit",
+    "generate_test_data": "Generate Test Data",
+    "users_list": "Users List",
+    "loading": "Loading...",
+    "no_users": "No users found.",
+    "error_loading": "Error loading users.",
+    "success_added": "Data successfully added!",
+    "error_adding": "Error adding data."
+  }
+  

@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -11,6 +9,14 @@
 # production
 /build
 
+# Firebase files
+.firebase/
+firebaserc
+
+# Environment files
+.env
+.env.*
+
 # misc
 .DS_Store
 .env.local
@@ -18,6 +24,11 @@
 .env.test.local
 .env.production.local
 
+# Firebase function dependencies
+functions/node_modules
+
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+firebase-debug.log*
